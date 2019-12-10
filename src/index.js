@@ -13,6 +13,9 @@ app.get('/attributes', async (req, res) => {
     res.status(200).json({"update": "library under review sent to Slack"})
 })
 
-app.listen(process.env.PORT, () => {
+const PORT = process.env.PORT || 8080
+
+app.listen(PORT, () => {
   console.log(`listening on port ${process.env.PORT}`)
+  console.log('Press Ctrl+C to quit.')
 })
