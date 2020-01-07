@@ -9,6 +9,7 @@ A simple bot that sends notifications to Slack based on what's available on [Ado
 **In your terminal:**
  - `git clone git@github.com:ogonna-anaekwe/launch-staging-bot.git`
  - `cd launch-staging-bot`
+ - `npm install`
  - `npm run dev`
 
 **In your browser or Postman:**
