@@ -17,6 +17,6 @@ A simple bot that sends notifications to Slack based on what's available on [Ado
 Remember to replace all references to environment variables with your own variables. You also need to choose what platform you wish to host the application on. You may define your cron job on whatever platform you settle on.
 
 ### Further questions and enquiries
-`https://www.linkedin.com/in/ogonnaanaekwe/`
+[Ogonna](https://www.linkedin.com/in/ogonnaanaekwe/)
 
 
